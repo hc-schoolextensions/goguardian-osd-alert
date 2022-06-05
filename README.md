@@ -2,7 +2,6 @@
 This extension is an extension to alert a user when they are not on a school device, but are still signed into their school account. This makes sure a user knows that their device is being monitored.
 <br>
 ##### This extension was designed specifically for installation through the Google Admin Console. To install the extension, use the extension ID and installation URL below.
-<br>
 
 #### Extension ID: pfoalohgpmiakmaloaanhekffnkdlebb
 
