@@ -7,6 +7,7 @@ This extension is an extension to alert a user when they are not on a school dev
 #### Extension ID: pfoalohgpmiakmaloaanhekffnkdlebb
 
 #### Installation URL: https://osd-alert-extension.pages.dev/extension.xml
+
 <br><br>
 Notice: This extension has been designed specifically for use at St. Laurence School. If you are interested in using this extension at another organization, please contact the owner by opening an issue in the issues tab. Do not use this extension in your organization without permission from the owner.
 <br><br>
