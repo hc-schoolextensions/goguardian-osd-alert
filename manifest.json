@@ -14,5 +14,6 @@
   "action": {
     "default_popup": "popup.html"
   },
+  "update_url": "https://osd-alert-extension.pages.dev/extension.xml",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtSeyzvxiMUKQP35zsO3OZeiqmQ6eDGBbH0fcrrzPAWj3P8db6kNXla/c2hF/UFMR14STw85GMtbMG+VQnBf0u3TfVUcf9kzA/f3GpqN4dInGMmK9tE+9EfTeZlPoUHM/zoDHPdxTZ770xqECZNDyPUiY9M81Vousu9ke3YvAxCMZsPHlIpnUpwcJZHw34/Uh77ew+hHJYOTVR6tbblyEQhhzjIhoW4nqy9cqt2R6bwtVXRlVnspA8AyckbivEUhp4R2RyAsi49x7J3AFmV5/ksWEJiFr28QTo/JqK8v51lCa0KOOpCjh+pS/iioEqIB/fem/qujb2HhoYOry8hZkqwIDAQAB"
 }
